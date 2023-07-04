@@ -1,3 +1,5 @@
 该文档是thubicp的补充版本，底层细节请参考：https://github.com/qingxueliu/thubicp.com  
 该文件作为sbpu-c组建云集群的实现，包括docker、docker-container、toolkits、device-plugin等文件  
 
+上述软件适配noc-rw架构
+
